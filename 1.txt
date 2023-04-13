@@ -1,6 +1,6 @@
 def a():
-    q = 11
-    w = 11
-    e = 11
-    r = 11
-    return q
+    q = 13
+    w = 12
+    e = 12
+    r = 12
+    return w
