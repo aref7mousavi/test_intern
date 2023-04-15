@@ -1,0 +1,6 @@
+def a():
+    q = 10
+    w = 10
+    e = 10
+    r = 10
+    return q
