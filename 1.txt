@@ -1,6 +1,0 @@
-def a():
-    q = 13
-    w = 13
-    e = 13
-    r = 13
-    return q
